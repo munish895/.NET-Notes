@@ -5,7 +5,7 @@
 const keyword is used to declare the variable which can't be changed during its lifecycle. we need to initialize the variable's value at the time of declaration.
 we can't change the value of the variable once its declared.
 
- public/private const string name = 'dhruv Sharma';
+ public/private const string name = 'munish Sharma';
 
 ###  ReadOnly keyword - 
 can be used to declare the variable whose value needs to initialize at the time of declaration. Its value can only be update in the constructor else u can't
