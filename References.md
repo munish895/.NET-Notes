@@ -1,4 +1,4 @@
-# .net interview preparation -> 
+# .net interview preparation
 
 
 ### const keyword - 
